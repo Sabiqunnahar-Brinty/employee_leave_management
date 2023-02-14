@@ -17,6 +17,7 @@ class _SigninpageState extends State<Signinpage> {
    final _auth = FirebaseAuth.instance;
    late String email;
    late String password;
+   String name='';
 
 
 
