@@ -1,6 +1,5 @@
 # employee_leave_management
-
-A new Flutter project.
+A Flutter project  for employee leave management that  includes a sign-up and sign-in feature, date selection, leave type, reason, and task assignment.The manager receives a notification and can take appropriate action such as reject/approve.
 
 ## Getting Started
 
